@@ -29,6 +29,8 @@ instruct:
   Image Ratio:
     16:9
 ```
+**完成した画像**
+![[FirstFrameByNanoBanana.jpeg]]
 
 ## for Nano banana(Video last)
 ```yaml
@@ -60,6 +62,8 @@ instruct:
   Image Ratio:
     16:9
 ```
+**完成した画像**
+![[LastFrameByNanoBanana.jpeg]]
 
 ## for Veo2(create video)
 ```yaml
@@ -89,3 +93,5 @@ instruct:
   Image Ratio:
     16:9
 ```
+**完成した動画**
+![[CreatedbyVeo3.mp4]]
